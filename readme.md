@@ -14,7 +14,9 @@ https://mvnrepository.com/artifact/org.eclipse.platform/org.eclipse.core.resourc
 
 ```
 
-2. 然后再运行导入工程并运行，把 原来的工作空间的绝对路径 和 上面列出来的字符串 一起作为参数传给 LocationUpdater ，同时修改 LocationUpdater当前工作目录 到新的工作空间的位置。
+2. 然后再运行
+
+导入工程并运行，把 原来的工作空间的绝对路径 和 上面[步骤1]列出来的字符串 一起作为参数传给 LocationUpdater ，同时修改 程序的当前工作目录 到 新的工作空间的位置。
 
 #### 运行
 
